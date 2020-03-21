@@ -4,10 +4,10 @@
   "private": true,
   "dependencies": {
     "moment": "2.24.0",
-    "react": "16.8.6",
-    "react-big-calendar": "0.20.4",
-    "react-dom": "16.8.6",
-    "react-scripts": "3.0.1"
+    "react": "16.13.1",
+    "react-big-calendar": "0.24.1",
+    "react-dom": "16.13.1",
+    "react-scripts": "3.4.1"
   },
   "scripts": {
     "start": "react-scripts start",
